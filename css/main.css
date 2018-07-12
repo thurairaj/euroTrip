@@ -25,3 +25,7 @@
 .padded-text {
    padding: 0 10px;
 }
+
+.btn-primary {
+   margin-bottom: 5px;
+}
