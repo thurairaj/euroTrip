@@ -1,0 +1,17 @@
+.card-holder {
+   margin: 10px auto;
+}
+
+.card-header.collapsed {
+   background-color: rgba(0, 0, 0, 0.03);
+   border-bottom: 0px solid rgba(0, 0, 0, 0.125);
+}
+
+.card-header {
+   background-color: rgba(39, 255, 0, 0.03);
+   border-bottom: 1px solid rgba(32, 90, 7, 0.125);
+}
+
+.padded-text {
+   padding: 0 10px;
+}
