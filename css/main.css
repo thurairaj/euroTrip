@@ -7,9 +7,18 @@
    border-bottom: 0px solid rgba(0, 0, 0, 0.125);
 }
 
+.card-header button {
+   width: 100%;
+   text-align: left;
+   border: none;
+   background: transparent;
+   padding: 12px 20px;
+}
+
 .card-header {
    background-color: rgba(39, 255, 0, 0.03);
    border-bottom: 1px solid rgba(32, 90, 7, 0.125);
+   padding: 0px;
 }
 
 .padded-text {
