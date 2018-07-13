@@ -29,3 +29,29 @@
 .btn-primary {
    margin-bottom: 5px;
 }
+
+@media (max-width: 575.98px) {
+   h5 {
+      font-size: 1em;
+   }
+
+   .date {
+      font-size: 0.9em;
+   }
+
+   .col-xs-12 {
+      padding-left: 0px;
+      padding-right: 0px;
+   }
+
+   a.btn {
+      padding: 5px;
+      line-height: 0.9;
+      font-size: 0.9em;
+   }
+
+   .padded-text {
+      padding-right: 5px;
+      padding-left: 5px;
+   }
+}
